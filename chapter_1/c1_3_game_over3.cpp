@@ -1,4 +1,4 @@
-// Game over 2.0
+// Game over 3.0
 // Использование using
 
 #include <iostream>
