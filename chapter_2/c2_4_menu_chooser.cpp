@@ -1,5 +1,5 @@
-// Score Rater 3.0
-// Условия
+// Menu chooser
+// switch
 
 #include <iostream>
 
