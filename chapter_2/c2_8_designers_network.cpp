@@ -32,7 +32,7 @@ int main()
 		{
 			cout << "\nHow goes it, Will?\n";
 			success = true;
-		} else if(username == "guest" && password == "guest")
+		} else if(username == "guest" || password == "guest")
 		{
 			cout << "\nWelcome, guest.\n";
 			success = true;
