@@ -1,4 +1,4 @@
-// Hero's inventory
+// Hero's inventory 2.0
 // STL. Работа с векторами
 #include <iostream>
 #include <string>
