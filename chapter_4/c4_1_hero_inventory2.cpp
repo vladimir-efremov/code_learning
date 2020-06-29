@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 // Hero's inventory 2.0
-=======
-// Hero's inventory
->>>>>>> 7b219ecc019cd24d25225d6fa389f37bd09b87ff
 // STL. Работа с векторами
 #include <iostream>
 #include <string>
